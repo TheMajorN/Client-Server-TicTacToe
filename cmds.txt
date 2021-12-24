@@ -1,0 +1,13 @@
+COMMANDS TO EXECUTE THE GAME:
+
+COMPILE CLIENT:
+gcc -o player player.c client-thread-2021.c
+
+EXECUTE CLIENT:
+./player freebsd1.cs.scranton.edu 17100 client-thread-2021.h
+
+COMPILE SERVER:
+gcc -o server server.c server-thread-2021.c -lpthread
+
+EXECUTE SERVER:
+./server 17100
