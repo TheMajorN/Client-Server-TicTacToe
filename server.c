@@ -1,7 +1,5 @@
 /*
-Group:   Nicholas Baranosky, Myles Spencer, Morgan McGuire
-Class:   Operating Systems
-Date:    Oct. 18, 2021
+Group:   Nick, Myles, Morgan
 Compile: gcc -o server server.c server-thread-2021.c -lpthread
 Run:     ./server 17100
    
