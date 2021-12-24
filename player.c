@@ -1,7 +1,5 @@
 /* 
-Group:   Nicholas Baranosky, Myles Spencer, Morgan McGuire
-Class:   Operating Systems
-Date:    Oct. 18, 2021
+Contributors:   Nick, Myles, Morgan
 Compile: gcc -o player player.c client-thread-2021.c
 Run:     ./player freebsd1.cs.scranton.edu 17100 client-thread-2021.h
 
